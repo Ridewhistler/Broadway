@@ -27,7 +27,7 @@ ul {
   background-image: url("../images/the-flatiron-building.png");
 }
 .header a {
-  line-height: 2;
+  padding-top: 25px;
   color: white;
   list-style-type: none;
 }
