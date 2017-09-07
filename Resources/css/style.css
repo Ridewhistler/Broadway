@@ -3,7 +3,7 @@ body {
 }
 .header {
   color: white;
-  background-image: src="resources/images/the-flatiron-building.png"
+  background-image: src="Resources/images/the-flatiron-building.png"
 }
 h1 {
   font-size: 70px;
