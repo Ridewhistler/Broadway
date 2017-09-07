@@ -27,7 +27,10 @@ ul {
   background-image: url("../images/the-flatiron-building.png");
 }
 .header a {
-  padding-top: 25px;
   color: white;
   list-style-type: none;
+}
+.divider h3 {
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
 }
