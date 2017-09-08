@@ -15,31 +15,32 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
+a {
+  color: white;
+  font-size: 18px;
+}
 p {
   font-size: 14px;
 }
 ul {
   display: inline;
-   list-style:none;
-   padding: 0;
+  list-style:none;
+  padding: 0;
 }
 .header {
   color: white;
   background-image: url("../images/the-flatiron-building.png");
-}
-.header a {
-  color: white;
   list-style-type: none;
 }
 .divider h3 {
   color: white;
   background-image: url("../images/the-flatiron-building.png");
 }
+.footer {
+  text-align: left;
+  background-color: dimgray;
+}
 .copy {
   font-size: 11px;
   color: white;
-  background-color: dimgray;
-}
-.footer ul {
-  display: inline;
 }
